@@ -1,5 +1,9 @@
 # Tutorial: Fitting deterministic population models 
 
+A tutorial accompanying the publication:
+
+B. Rosenbaum, E.A. Fronhofer 2021. Fitting deterministic population models to stochastic data: from trajectory matching to state-space models 
+
 ## Single-species system
 
 [Logistic growth - OBS model](https://benjamin-rosenbaum.github.io/fitting_deterministic_population_models/logistic_obs.html)
