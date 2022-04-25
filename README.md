@@ -2,7 +2,7 @@
 
 A tutorial accompanying the publication:
 
-B. Rosenbaum, E.A. Fronhofer 2021. Fitting deterministic population models to stochastic data: from trajectory matching to state-space models 
+B. Rosenbaum, E.A. Fronhofer 2022. Confronting population models with experimental microcosm data: from trajectory matching to state-space models 
 
 ## Single-species system
 
