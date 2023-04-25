@@ -1,4 +1,4 @@
-# Tutorial: Fitting deterministic population models 
+# Tutorial: Fitting deterministic population models in R using rstan
 
 A tutorial accompanying the publication:
 
